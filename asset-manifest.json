@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Countrie_React/static/css/main.5dd92b4c.css",
+    "main.js": "/Countrie_React/static/js/main.8fe0c93e.js",
+    "static/media/main.jpg": "/Countrie_React/static/media/main.516fbcd135926107480c.jpg",
+    "static/media/JosefinSans-Medium.ttf": "/Countrie_React/static/media/JosefinSans-Medium.45a5738c27c1bbbecc0c.ttf",
+    "index.html": "/Countrie_React/index.html",
+    "main.5dd92b4c.css.map": "/Countrie_React/static/css/main.5dd92b4c.css.map",
+    "main.8fe0c93e.js.map": "/Countrie_React/static/js/main.8fe0c93e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5dd92b4c.css",
+    "static/js/main.8fe0c93e.js"
+  ]
+}
